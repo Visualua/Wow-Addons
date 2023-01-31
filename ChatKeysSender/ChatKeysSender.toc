@@ -1,0 +1,9 @@
+## Author: Обожемой
+## Interface: 80300
+## Version: 1.0.0
+## Title: Chat Keys Sender
+## Name: Chat Keys Sender
+## Notes: Отправляет в чат готовые запросы на поиск игроков в ключи
+
+
+ChatKeysSender.lua
